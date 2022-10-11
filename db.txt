@@ -1,0 +1,72 @@
+youtube = 10:
+instagram = 2:
+facebook = 3:
+google = 4:
+ 
+youtube = 10:
+instagram = 2:
+facebook = 3:
+google = 4:
+ 
+youtube = 12:
+instagram = 3:
+facebook = 3:
+google = 4:
+ 
+youtube = 12:
+instagram = 3:
+facebook = 3:
+google = 4:
+ 
+youtube = 12:
+instagram = 3:
+facebook = 3:
+google = 4:
+ youtube = 12:
+instagram = 3:
+facebook = 3:
+google = 4:
+ spotify = 2:
+ 
+youtube = 13:
+instagram = 4:
+facebook = 5:
+google = 12:
+ spotify = 4:
+ 
+youtube = 14:
+instagram = 4:
+facebook = 5:
+google = 13:
+ spotify = 9:
+ 
+youtube = 14:
+instagram = 17:
+facebook = 5:
+google = 13:
+ spotify = 11:
+ 
+youtube = 14:
+instagram = 27:
+facebook = 5:
+google = 13:
+ spotify = 13:
+ 
+youtube = 14:
+instagram = 40:
+facebook = 5:
+google = 13:
+ spotify = 20:
+ 
+youtube = 14:
+instagram = 41:
+facebook = 5:
+google = 13:
+ spotify = 22:
+ 
+youtube = 14:
+instagram = 56:
+facebook = 5:
+google = 13:
+ spotify = 27:
+ 
