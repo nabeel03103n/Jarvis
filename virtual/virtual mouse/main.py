@@ -2,7 +2,8 @@ import cv2
 import numpy as np
 import HandTrackingModule as htm
 import time
-import autopy
+import pyautogui as p
+import os
 
 ######################
 wCam, hCam = 640, 480
@@ -18,7 +19,7 @@ cap.set(3, wCam)
 cap.set(4, hCam)
 
 detector = htm.handDetector(maxHands=1)
-wScr, hScr = autopy.screen.size()
+wScr, hScr = p.size()
 
 # print(wScr, hScr)
 
@@ -33,10 +34,15 @@ while True:
         x1, y1 = lmList[8][1:]
         x2, y2 = lmList[12][1:]
 
+        px1,py1 = lmList[8][1],lmList[8][2]
+        px2,py2 = lmList[6][1],lmList[6][2]
+        # print(px1,py1)
+
         # Step3: Check which fingers are up
         fingers = detector.fingersUp()
         cv2.rectangle(img, (frameR, frameR), (wCam - frameR, hCam - frameR),
                       (255, 0, 255), 2)
+
 
         # Step4: Only Index Finger: Moving Mode
         if fingers[1] == 1 and fingers[2] == 0:
@@ -50,20 +56,57 @@ while True:
             clocY = plocY + (y3 - plocY) / smoothening
 
             # Step7: Move Mouse
-            autopy.mouse.move(wScr - clocX, clocY)
+            p.moveTo(wScr - clocX, clocY)
             cv2.circle(img, (x1, y1), 15, (255, 0, 255), cv2.FILLED)
             plocX, plocY = clocX, clocY
 
-        # Step8: Both Index and middle are up: Clicking Mode
-        if fingers[1] == 1 and fingers[2] == 1:
+        # if fingers
+
+
+        if fingers[1] == 1 and fingers[2] == 1 and fingers[0]==0 and fingers[3]==0 and fingers[4]==0:
 
             # Step9: Find distance between fingers
             length, img, lineInfo = detector.findDistance(8, 12, img)
 
             # Step10: Click mouse if distance short
             if length < 40:
-                cv2.circle(img, (lineInfo[4], lineInfo[5]), 15, (0, 255, 0), cv2.FILLED)
-                autopy.mouse.click()
+                cv2.circle(img, (px1,py1), 15, (0, 255, 0), cv2.FILLED)
+                cv2.circle(img, (px2,py2), 15, (0, 255, 0), cv2.FILLED)
+                p.click()
+
+        if fingers[4]==1 and fingers[0]==0 and fingers[1]==1 and fingers[2]==0 and fingers[3]==0:
+            p.rightClick()
+
+        # if fingers[4]==1 and fingers[0]==0 and fingers[1]==0 and fingers[2]==0 and fingers[3]==0:
+        #     # p.press('win')
+        #     # p.typewrite("on screen keyboard")
+        #     # p.press("enter")
+        #     os.startfile("C:\\Users\\Metro\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk")
+
+        #Thumb up: Hold mode
+        if fingers[4]==0 and fingers[0]==1 and fingers[1]==0 and fingers[2]==0 and fingers[3]==0:
+            x3 = np.interp(x1, (frameR, wCam-frameR), (0, wScr))
+            y3 = np.interp(y1, (frameR, hCam-frameR), (0, hScr))
+
+            # Step6: Smooth Values
+            clocX = plocX + (x3 - plocX) / smoothening
+            clocY = plocY + (y3 - plocY) / smoothening
+
+            # Step7: Move Mouse
+            p.dragTo(wScr - clocX, clocY)
+
+        if fingers[4]==0 and fingers[0]==0 and fingers[1]==0 and fingers[2]==0 and fingers[3]==0:
+            length, img, lineInfo = detector.findDistance(8, 12, img)
+
+            if length < 40:
+                p.scroll(-100)
+
+        if fingers[4]==1 and fingers[1]==1 and fingers[1]==1 and fingers[2]==1 and fingers[3]==1:
+            p.scroll(100)
+
+
+
+
 
     # Step11: Frame rate
     cTime = time.time()

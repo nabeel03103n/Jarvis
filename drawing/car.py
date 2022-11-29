@@ -65,3 +65,5 @@ def draw():
 
     p.click(eraser)
     p.click(574,919)
+
+draw()

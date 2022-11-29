@@ -18,20 +18,12 @@ open google
 open google
 open google
 speak hindi
-none
-none
-none
-none
-none
-none
 speak hindi
 hindi
 what are you doing
 what is your name
 hello jarvis
 bhejne ke tarike the time
-none
-none
 kuchh bolo
 what is your name
 the time
@@ -40,26 +32,20 @@ hello jarvis
 hello janu
 what are you doing
 what is your name
-none
 how are you
 hello jarvis
 what are you doing
 hindi
-none
 play music
-none
 play music
-none
  salman khan
 richest movie actor 
 open instagram
 how are you
 what is the time
-none
 thanks
 hindi
 who is my
-none
 who is my good friend
 who is my mother
 who is ludhiana pur
@@ -83,21 +69,13 @@ thanks
 who is your master
 click my photo
 thanks my photo
-none
-none
-none
-none
-none
-none
 who is kriti
 who is kriti
 who is kriti
 who is kriti
 who is sunny le
 who is sunny le
-none
 hello jarvis
-none
 how are you jarvis
 what are you doing your wish
 who is my brother jealous
@@ -105,10 +83,8 @@ father jarvis
 who is my father jarvis
 who is my father
 hello jarvis
-none
 i am nabeel
 i am fine
-none
 hello jarvis
 how are you jarvis
 i am also fine
@@ -119,8 +95,6 @@ who is my brother jarvis
 hello jarvis
 how are you jarvis
 i am also fine
-none
-none
 your name
 who is my father
 photo click my photo
@@ -190,17 +164,14 @@ your master
 all my homies
 call brother
 brothers
-none
 facebook jarvis
 facebook
 open instagram
 open youtube
 email to nabeel
-none
 all brothers
 man is my friend
 hindi
-none
 hindi
 pravesh hindi
 hello jarvis
@@ -224,9 +195,7 @@ ok thanks once
 friend jarvis
 friend jarvis
 ram is my friend jarvis
-none
 ram is my friend jarvis
-none
 ok jarvis salman khan 
 salman khan 
 geeksforgeeks google
@@ -240,16 +209,12 @@ weather
 all my brothers
 movie
 what is your name
-none
 how are you jarvis
 i'm also fine
-none
 play music
 play music
-none
 with my photo
 open youtube
-none
 who is the richest actor on earth 
 shahrukh khan 
 who is your master
@@ -265,7 +230,6 @@ what are you doing
 play music
 reply kar de
 who is rahim
-none
 salman khan 
 all my friends
 photo
@@ -273,28 +237,21 @@ how are you
 i am also fine
 what is the time
 thanks for your help
-none
-none
 play music
 khilafat movement 
-none
 cooperation movement 
-none
 hello jarvis
 how are you jarvis
 salman khan 
 who is my mother
 all my brothers
-none
 call brothers
 click my photo
 play music
 play music
 message yusuf on instagram
 message yusuf on instagram
-none
 message yusuf on instagram
-none
 message on instagram
 yusuf on instagram
 message yusuf on instagram
@@ -309,7 +266,6 @@ jarvis can you tell me that who is yusuf
 salman khan 
 hello jarvis
 how are you
-none
 hello jarvis
 how are you
 all my homies
@@ -343,7 +299,6 @@ salman khan
 click my photo
 play music
 ok jarvis message yusuf on instagram
-none
 hello jarvis message faisal on instagram
 gam ke video message aryan on instagram
 message faisal on instagram
@@ -362,22 +317,17 @@ what is the time
 my photos
 kothari 
 code with harry 
-none
 ask me a question service
-none
 ask me some questions service
 ask me some questions service
-none
 manish
 ask me some questions
-none
 ask me some questions
 question
 me a question
 ask me a question
 what are the two things you never eat before breakfast breakfast 
 search on instagram
-none
 search on instagram
 message bismah on instagram
 message dushman
@@ -393,44 +343,33 @@ search on instagram
 instagram
 search on instagram
 message roj hone whatsapp
-none
-none
 hello
 hello jarvis
-none
 how are you jarvis
 i am also fine
 can you tell me please what is the time service
 ok jarvis thanks for your help
-none
 dyno game
 dino game
 dino game
-none
-none
 sexy video
 hello jarvis
 what are you doing there was
 what is the time
-none
 music jarvis
 play music
 music
 play music
 play music
 play music
-none
 hello jarvis
 milton nabeel
 mail to nabeel
-none
-none
 hello jarvis
 help me jarvis
 music review
 new do nabeel
 mail to nabeel
-none
 hello jarvis
 are you doing jarvis
 what are you doing your wish
@@ -442,209 +381,18 @@ mel b
 mail to levine
 mel 2 navin
 mail to nabeel
-none
-none
 mil to navin
 mail to nabeel
 mail to nabeel
-none
-none
-none
 mail to nabeel
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 sexy download
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 picture
-none
-none
-none
-none
-none
-none
-none
-none
 sexy video
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 mail to nabeel
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 hello jarvis
 how are you jarvis
 to nabeel
 mail to nabeel
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 who is your master
 click my photo
 tell me a joke
@@ -657,23 +405,12 @@ ipl who is yusuf
 sona
 yeah
 awaaz
-none
-none
-none
 message yusuf on instagram
 what time per chalaye
 abhi theek karke fir dunga abhi to my photo
-none
-none
 play music
-none
-none
 music
-none
-none
 who is your master
-none
-none
 punjabi hello
 punjabi hello jarvis
 resident evil game play music
@@ -683,71 +420,30 @@ waiting
 play music
 play music
 search on instagram
-none
 yusuf
 who is yusuf
-none
 message yusuf on instagram
-none
-none
-none
 hello
 sexy film
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 instagram
 message yousuf on instagram
 message yusuf on instagram
 message yusuf on instagram
-none
 yusuf khan instagram
 yusuf on instagram
 video bhej raha hai
 what are you doing
 hello what are you doing
-none
 message yusuf on instagram
-none
-none
-none
 message mass on instagram
 message was on instagram
 message mass on
 message mass on instagram
-none
-none
-none
-none
 message mauj on instagram
 nice message marvel instagram
 message mass on instagram
-none
-none
-none
 m python file
 grader python
-none
-none
-none
 hidden file
 give the new file in file
 create a new pipe fire
@@ -761,7 +457,6 @@ need him he is my friend
 news him
 new
 meet him he is my friend
-none
 meet him
 news
 neeraj name is
@@ -769,7 +464,6 @@ mithun is my friend
 need him he is my new friend
 meet him he is my friend
 is
-none
 meet him his friend
 he is my friend
 meet him he is my friend
@@ -778,19 +472,15 @@ he is my friend
 need him he is my friend
 meet him he is my friend
 hindi
-none
 hindi
 mithe
 meet him he is my friend
 is my friend
-none
 meet him his friend
 meet him friend
-none
 friend
 meet him he is my friend
 is nabeel
-none
 is kabir
 please love you
 ajnabee
@@ -808,92 +498,44 @@ ali khan
 who is amaan ali khan
 who is my brother
 play music
-none
-none
-none
-none
 play music
 hello jarvis
 hisar cantt
 he is my friend
 meet him he is my friend
-none
 hello jarvis
 india versus
-none
 show me your face
-none
-none
 hello jarvis
 play music
-none
 hello jarvis
-none
 play music
 indiana
 email ka banaya hua
-none
 show me your face
-none
 badi mahal liye desh ka code dikhao
 salman khan 
-none
 hello hello
-none
 hello jarvis
 hello jarvis
 vivek barot
-none
-none
-none
 hello jarvis
 narayan
-none
-none
 nahin
 iska face show me your face
-none
 who is my mother
 message yusuf on instagram
 hello world
-none
-none
-none
 blood
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 hello janu
-none
-none
-none
 hello jarvis
 are you doing
 what are you doing
 show me a wink
 show me your face
-none
 ok switch to fan mode
 open mode
 open mode
-none
 switch to fun mode
 hello
 ok
@@ -904,25 +546,20 @@ repeat after me hello world
 interfere me hello world
 repeat after me hello world
 repeat after me hello world
-none
 repeat after me hello world
 wwe having a few
 hindi dubbed movie hello
-none
 repeat after me hello nabi
 what are you doing
 repeat after me
 repeat after me
-none
 repeat after me youtube
 repeat after me turn on the wi-fi
-none
 upcoming sale on laptop
 repeat after me
 repeat after me
 repeat of event on the laptop
 repeat after me turn on the laptop
-none
 hello jarvis
 doing jarvis
 what are you doing
@@ -932,36 +569,19 @@ beautiful
 message on instagram
 message
 message yusuf on instagram
-none
-none
-none
-none
-none
-none
-none
-none
-none
 javed
 country code
  india
 india
  india
-none
 country code india
-none
 country code india
 country code
 country code
-none
 country code
-none
-none
-none
 hello javed
 hello jarvis
-none
 play music
-none
 hello jarvis
 the dangerous
 what is the time
@@ -973,12 +593,10 @@ bp afternoon hello world
 repeat after me hello world
 ok jarvis repeat after me what are you doing
 repeat after me how are you
-none
 i am also fine
 sukhe me something new
 me something new
 ok i want something new
-none
 is my friend
 he is my friend
 meet him he is my friend
@@ -988,7 +606,6 @@ meet her she is my friend
 release
 he is a leaf
 is
-none
 m he is my new friend
 made for he is my new friend
 meet
@@ -997,73 +614,44 @@ m facebook
 meet her she is my friend
 she is
 please leave
-none
 thor is my friend
-none
 table of 2
-none
 vaibhav off 100
 nai bahu off 100
-none
 table
 table of 3
-none
 home
 nahin 10
 table of 12
 sai baba 120
 nahin babu of 120
 hero 420
-none
 hello janu
 hello
 cycle
-none
-none
-none
 hello janu
 hello janu
 my mother
-none
-none
 girl hot
-none
-none
 hello jarvis
-none
 what are you doing service
 help
 what is the
 what is 3 x 5
 what is 3 x 5
-none
-none
-none
 hello jewellers
 hello
-none
 hello jarvis
 what is 3 x 5
-none
-none
 what is 3 x 5
 what is 3.5
-none
-none
 hay janu
 hey jarvis what is 3-5
-none
-none
-none
 what is triple x
 hey is what
 what is 15
-none
 75
-none
 what is 3 x 5
-none
-none
 what is street
 what is 5
 what is
@@ -1071,18 +659,12 @@ what is 3 x wife
 what is 3 x 5
 what is
 hey what is
-none
 hey what is 3 x 3
-none
-none
-none
 what is 10 + 10
-none
 what is 10 + 10
 hundred
 what is hundred plus hundred
 100 plus 100
-none
 what is 100 + 100
 what is 1000 + thousand
 what is 1000 + 1000
@@ -1104,11 +686,9 @@ what is 10 + 10
 what is 10 by 10
 what is my next turn
 what is 10 x 10
-none
 what is 10 by 10
 what is templeton
 what is tamba 10 by 10
-none
 what is 10 by 10
 what is 10 + 10
 free
@@ -1121,11 +701,9 @@ what is the cube of 3
 cube of 3
 tube3
 what is the cube of 3
-none
 what is the cube of 3
 tube5
 cube of 5
-none
 15 x 15
 what is 10 by 15
 what is the cube of 3
@@ -1144,8 +722,6 @@ how many digits are there in 1 million
 what is 10 by 10
 what is 500/500
 10 + 10
-none
-none
 table of 3
 what is the cube of 3
 what is the square root of 2
@@ -1164,9 +740,7 @@ nice meeting
 repeat after me nice
 repeat after me it was nice meeting and i am glad to meet you
 what is the speed of light
-none
 what is the speed of light
-none
 what is speed of sound
 what is 299792458
 what is the speed of light 
@@ -1178,15 +752,9 @@ what is the biggest thing in google
 what is the speed of sound
 what is the speed of sound google
 video song google
-none
-none
 speed of sound google
-none
 what is the speed of sound google
 speed of sound
-none
-none
-none
 what is the speed of sound google
 what is the speed of sound
 what is the speed of sound
@@ -1206,12 +774,10 @@ mitron
 10 by 10
 hello
 hello
-none
 what can b done
 what is 10 by 10
 what is 10 + 10
 what is 10 by 10
-none
 mitron
 what is 10 by 10
 thanks for your help
@@ -1227,14 +793,11 @@ what are you doing
 what is 10 + 10
 mitron
 what is 10 by 10
-none
 what is my phone number
 hello
 hello jarvis
-none
 what are you doing yaar
 play music
-none
 message instagram
 message yusuf on instagram
 india japan ke holi ke gane
@@ -1246,30 +809,23 @@ what are you doing
 table of 3
 salman khan 
 what is 10 + 10
-none
 play music
-none
 yaar man to message time
-none
-none
 jarvis
 hello jarvis
 draw a car
 draw a car
 soccer
 draw a car
-none
 ka
 draw a car
 roca
-none
 rakar
 draw a car
 roca
 hello jarvis
 mail to nabeel
 send mail to nabeel
-none
 nabeel
 mail to nabeel
 jarvis
@@ -1295,20 +851,17 @@ tell me a joke
 hindi
 hindi
 click my photo
-none
 who is your master
 i am your master
 i am your master
 iron wheel
 i am nabeel
-none
 play music
 play music
 courier to fight file
 create a python file
 create a text file
 country code
-none
 repeat after me what are you doing
 it after me aman is playing
 repeat after me aman motor hai
@@ -1326,115 +879,97 @@ animals name
 open code
 draw car
 draw a car
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 hello jarvis
 doing javed
 what are you doing
-none
 who is my mother
-none
 salman khan 
-none
-none
 what is 10 + 10
 table of 3
 country code
-none
-none
-none
 create python file
 create a text file
-none
-none
 kya mujhe
-none
-none
 hindi
-none
 what is 10 by 10
-none
 what is my phone number
 repeat after me
 repeat after me the bheem is a good boy
-none
-none
 draw a bar
 draw
 joke of
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 hello jarvis
-none
 what are you doing jarvis
 salman khan 
 message yusuf on instagram
-none
-none
 search on instagram
-none
-none
-none
-none
-none
 golden
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
-none
 rocker
 draw a car
-none
 repeat after me shivraj what are you doing
 repeat after me who is shivraj
 repeat after me shivraj is a good boy
 table of 3
-none
-none
 hello jarvis
 what are you doing
 table of 3
 all my friends
-none
 what is the time
-none
-none
 hindi
-none
 my photo
-none
 abdullah
 who is abdullah
-none
-none
 country code
-none
 repeat after me abdullah is a good boy
+hello jarvis
+are you doing
+what are you doing
+what is the time
+zayn instagram
+message mass on instagram
+thanks for your help
+3
+table of 3
+what is 10 + 10
+what is 10 by 10
+what is square of 3
+3
+wire of three
+square of 3
+mike
+country code
+enter country name short name for dialling code india
+bol rahi
+women
+virtual mouse
+download
 none
 none
+who is hira
+who is veera
+who is jogira
+who is rose
+none
+none
+none
+none
+none
+none
+hello
+hello jarvis
+repeat after me what are you doing
+none
+table of 3
+video
+hello jarvis
+open google
+none
+none
+salman khan 
+none
+madam what is my number
+sarojini
+none
+what is my phone number
+0385
+table of 3

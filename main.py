@@ -281,6 +281,11 @@ if __name__ == "__main__":
             speak(f"{best_friend} is your bestest friend {master}")
             print(f"{best_friend} is your bestest friend {master}")
 
+        elif "who is rose" in query:
+            best_friend = friends["best friend"]
+            speak(f"{best_friend} is your bestest friend {master}")
+            print(f"{best_friend} is your bestest friend {master}")
+
         elif "who is my good friend" in query:
             good_friend = friends["good friend"]
             speak(f"{good_friend} is your good friend {master}")
@@ -602,7 +607,13 @@ if __name__ == "__main__":
         elif "country code" in query:
             os.startfile("country\\country.py")
 
+#opencv
 
+
+
+
+        elif "camera module" in query:
+            os.startfile("virtual\some new\main.py")
 
 
 #fun mode
@@ -620,6 +631,14 @@ if __name__ == "__main__":
             print("Roger That")
             speak("Roger That")
             car.draw()
+
+
+        elif "virtual mouse" in query:
+            os.startfile("virtual\\virtual mouse\\main.py")
+
+        elif "count fingers" in query:
+            os.startfile("virtual\\virtual mouse\\count.py")
+
 #Math
 
         elif "table of" in query:
@@ -779,33 +798,41 @@ if __name__ == "__main__":
             #     print("opening youtube")
 
 
-
-
-        elif 'open google' in query:
-            speak("Do you want to search it manually")
-            ask = input("Do you want to search it manually:\n")
-            if "no" in ask:
-                say = speak("What you want to search on Google")
-                asking = input("What you want to search on Google:\n")
-
-                speak("opening Google")
-                print("opening Google")
-                webbrowser.open("https://www.google.com/")
-                sleep(3)
-                p.click(693,461)
-                sleep(1)
-                p.typewrite(asking)
-                sleep(1)
-                p.click(1460,456)
-                sleep(1)
-                p.click(839,555)
+        elif 'google' in query:
+            query = query.replace("google"," ")
+            j = ""
+            for j in search(query, tld="co.in", num=1, stop=1, pause=1):
+                speak("Searching Google")
+                print(j)
+                webbrowser.open(j)
 
 
 
+        # elif 'open google' in query:
+        #     speak("Do you want to search it manually")
+        #     ask = input("Do you want to search it manually:\n")
+        #     if "no" in ask:
+        #         say = speak("What you want to search on Google")
+        #         asking = input("What you want to search on Google:\n")
 
-            webbrowser.open("https://www.google.com/")
-            speak("opening Google")
-            print("opening Google")
+        #         speak("opening Google")
+        #         print("opening Google")
+        #         webbrowser.open("https://www.google.com/")
+        #         sleep(3)
+        #         p.click(693,461)
+        #         sleep(1)
+        #         p.typewrite(asking)
+        #         sleep(1)
+        #         p.click(1460,456)
+        #         sleep(1)
+        #         p.click(839,555)
+
+
+
+
+        #     webbrowser.open("https://www.google.com/")
+        #     speak("opening Google")
+        #     print("opening Google")
 
         elif 'open stackoverflow' in query:
             webbrowser.open("https://stackoverflow.com/")   
