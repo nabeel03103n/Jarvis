@@ -278,6 +278,24 @@
 
 # import tensorflow
 
-import pyautogui as p
+# import pyautogui as p
 
-print(p.position())
+# print(p.position())
+
+# import virtual
+
+# from virtual.Face_Recognition import main
+
+# main()
+inp = input("Enter:\n")
+
+if inp == "i":
+    for i in range(11):
+        print(i)
+
+else:
+    print("Exit")
+    print("Done")
+
+    for i in range(21):
+        print(i)

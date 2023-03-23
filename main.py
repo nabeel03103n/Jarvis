@@ -94,8 +94,22 @@ def speak(audio):
     engine.say(audio)
     engine.runAndWait()
 
+# def face_recognition():
+#     print("Recognizing Face...")
+#     speak("Recognizing Face")
+
+    # from virtual.Face_Recognition.main import main as main1
+    # main1()
+    
 
 def wishMe():
+
+    
+    # from virtual.Face_Recognition import main as main2
+    # if main2.sucess != True:
+    #     exit()
+
+
     hour = int(datetime.datetime.now().hour)
     if hour>=0 and hour<12:
         speak(f"Good Morning! {master} {name}")
@@ -137,6 +151,7 @@ def sendEmail(to, content):
     server.close()
 
 if __name__ == "__main__":
+    # face_recognition()
     wishMe()
     while True:
     # if 1:
@@ -214,10 +229,18 @@ if __name__ == "__main__":
             speak(My_joke)
 
         elif "me some jokes" in query:
+            import keyboard
             while TRUE:
                 My_joke = pyjokes.get_joke(language="en", category="all")
                 print(My_joke)
                 speak(My_joke)
+                if keyboard.read_key() == "esc":
+                    break
+
+                else:
+                    continue
+
+
 
 
 #Hindi
